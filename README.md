@@ -1,6 +1,6 @@
-## Ansible development environment on a laptop
+## Ansible sandpit environment on a laptop
 
-Provision an ansible development environment that consists of; 
+Provision an ansible sandpit environment that consists of; 
 
  - Ansible tower, to run ansible from
  - 2 webservers, web1 and web2 to provision to
