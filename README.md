@@ -14,7 +14,7 @@ vagrant up
 To log in and use;
 
 ```
-vagrant ssh
+vagrant ssh tower
 sudo su - ansible
 ```
 
